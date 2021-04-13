@@ -4,8 +4,8 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/murilo-silvestre-8b56abb6/" rel="nofollow">LinkedIn</a>
 
 
-While (<u r awake> && <not tired> && <there is still work to be done> && <it
-s not midnight yet>)
+While ("<u r awake>" && "<not tired>" && "<there is still work to be done>" && "<it
+s not midnight yet>")
  
 Do: 
  
