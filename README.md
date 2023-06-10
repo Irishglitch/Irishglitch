@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Engagement Manager @kainos, working on system and software automation (RPA/ OCR/ NLP...)
+- 👋 Hi, I’m an Senior Delivery Manager @kainos, working on system and software automation (RPA/ OCR/ NLP...)
 - 👀 I am working on my own startup - **Articolare**. I’m also interested in how AI could be used in more B2C applications :)
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me <a href="https://www.linkedin.com/in/murilo-silvestre-8b56abb6/" rel="nofollow">LinkedIn</a>
