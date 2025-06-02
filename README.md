@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Senior Technical Delivery Manager, working on system and software automation (LLms, NLP & ML...)
+- 👋 Hi, I’m an Senior Technical Delivery Manager, working on Audio Watermarking Systems
 - 👀 I am working on my own startup - ****. I’m also interested in how AI could be used in more B2C applications :)
 - 📫 How to reach me <a href="https://www.linkedin.com/in/murilo-silvestre/" rel="nofollow">LinkedIn</a>
 
