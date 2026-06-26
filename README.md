@@ -3,9 +3,6 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/murilo-silvestre/" rel="nofollow">LinkedIn</a>
 
 ````markdown
-```python
-from datetime import datetime
-
 while awake and not tired and backlog > 0 and datetime.now().hour < 24:
     coffee += 1
     build()
