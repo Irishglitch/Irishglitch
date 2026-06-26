@@ -3,17 +3,10 @@
 - 📫 How to reach me <a href="https://www.linkedin.com/in/murilo-silvestre/" rel="nofollow">LinkedIn</a>
 
 
-While (u r awake && not tired && there is still work to be done && it
-s not midnight yet)
- 
-Do: 
- 
-{​​​​​
-drink coffee
-work
-eat
-sleep
-}​​​​​
+while awake and not tired and backlog > 0 and datetime.now().hour < 24:
+    coffee += 1
+    code()
+    eat()​​
 
 
 <!---
